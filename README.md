@@ -21,7 +21,7 @@ Sou desenvolvedor full-stack focado em construir aplicações web do zero, enten
 
 Hoje trabalho em projetos que vão de ferramentas de automação a plataformas com uso real por outras pessoas, sempre buscando código limpo e decisões de arquitetura que façam sentido a longo prazo.
 
-> [!IMPORTANT]
+> [!IMPORTANTE]
 > Dá uma olhada nos meus **[projetos](#projetos)** ou me manda uma mensagem se quiser trocar uma ideia sobre algum deles.
 
 ---
