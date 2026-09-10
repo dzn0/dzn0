@@ -11,6 +11,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-pieri-914563358/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrepereirapieri@gmail.com)
 
+<br/>
+
+<img src="ulquiorra-ulquiorra-cifer.gif" width="100%" alt="Ulquiorra Cifer">
+
 </div>
 
 ---
