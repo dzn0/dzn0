@@ -1,7 +1,7 @@
 <div align="center">
 
 # Olá, meu nome é André.
-### DESENVOLVEDOR FULL-STACK
+### FULL-STACK DEVELOPER
 ### Next.js • React • Node.js • Express 
 
 <br/>
