@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o André 👋
+# Olá, meu nome é André Pieri.
 ### DESENVOLVEDOR FULL-STACK
 ### Node.js • Express • Next.js • React
 
