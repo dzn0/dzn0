@@ -21,9 +21,7 @@
 
 ## SOBRE MIM
 
-Sou desenvolvedor full-stack focado em construir aplicações web do zero, entendendo bem cada camada antes de pular para abstrações prontas. Gosto de aprender pelos fundamentos: comecei com Node.js e Express puro antes de migrar para frameworks mais robustos, porque prefiro entender o "porquê" antes do "como".
-
-Hoje trabalho em projetos que vão de ferramentas de automação a plataformas com uso real por outras pessoas, sempre buscando código limpo e decisões de arquitetura que façam sentido a longo prazo.
+Sou desenvolvedor Full-Stack focado em projetar aplicações bem estruturadas, construindo com Next.js, React e Node.js, e integrando soluções com IA que resolvem problemas reais — como no AnalisaCV, que usa a API da Anthropic para analisar currículos. Seja desenvolvendo produtos com pagamento real ou arquitetando sistemas full-stack do zero, meu foco é escrever código limpo e sustentável a longo prazo.
 
 > [!IMPORTANT]
 > Dá uma olhada no meu **[portfólio](https://andrepieri.vercel.app/)** ou me manda uma mensagem se quiser trocar uma ideia.
