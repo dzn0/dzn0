@@ -1,8 +1,15 @@
 <div align="center">
 
-# Olá, eu sou o André 👋
+# Olá, meu nome é André Pieri.
 ### DESENVOLVEDOR FULL-STACK
 ### Node.js • Express • Next.js • React
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logoColor=white)](https://andrepieri.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dzn0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-pieri-914563358/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrepereirapieri@gmail.com)
 
 </div>
 
@@ -91,6 +98,7 @@ Git · GitHub · VS Code · npm
 
 - **GitHub:** [github.com/dzn0](https://github.com/dzn0)
 - **Portfólio:** [andrepieri.vercel.app](https://andrepieri.vercel.app/)
+- **LinkedIn:** [in/andré-pieri](https://www.linkedin.com/in/andr%C3%A9-pieri-914563358/)
 - **Email:** [andrepereirapieri@gmail.com](mailto:andrepereirapieri@gmail.com)
 
 <br/>
