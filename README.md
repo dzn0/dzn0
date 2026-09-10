@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="ulquiorra-ulquiorra-cifer.gif" width="100%" alt="Ulquiorra Cifer">
+<img src="kokushibo.gif" width="100%" alt="Kokushibo">
 
 </div>
 
