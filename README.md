@@ -88,17 +88,10 @@ React · Next.js · HTML · CSS
 **Ferramentas**
 Git · GitHub · VS Code · npm
 
----
-
-<div align="center">
-  <h3>"Entender a base antes de usar a abstração."</h3>
-</div>
-
----
 
 ## CONTATO
 
-<sub><i>Aberto a trocar ideia sobre projetos full-stack, automações e sistemas web práticos.</i></sub>
+<sub>Aberto a trocar ideia sobre projetos full-stack, automações e sistemas web práticos.</sub>
 
 - **GitHub:** [github.com/dzn0](https://github.com/dzn0)
 - **Portfólio:** [andrepieri.vercel.app](https://andrepieri.vercel.app/)
@@ -106,5 +99,3 @@ Git · GitHub · VS Code · npm
 - **Email:** [andrepereirapieri@gmail.com](mailto:andrepereirapieri@gmail.com)
 
 <br/>
-
-<sub>André · construindo, aprendendo, repetindo</sub>
