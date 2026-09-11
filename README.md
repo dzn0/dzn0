@@ -21,10 +21,10 @@
 
 ## SOBRE MIM
 
-Sou desenvolvedor Full-Stack focado em projetar aplicações bem estruturadas, construindo com Next.js, React e Node.js, e integrando soluções com IA que resolvem problemas reais — como no AnalisaCV, que usa a API da Anthropic para analisar currículos. Seja desenvolvendo produtos com pagamento real ou arquitetando sistemas full-stack do zero, meu foco é escrever código limpo e sustentável a longo prazo.
+Sou um desenvolvedor Full-Stack focado em projetar aplicações bem estruturadas, construindo com Next.js, React e Node.js, e integrando soluções com IA que resolvem problemas reais. Seja desenvolvendo produtos com pagamentos ou arquitetando sistemas full-stack do zero, meu foco é escrever código limpo e sustentável a longo prazo.
 
 > [!IMPORTANT]
-> Dá uma olhada no meu **[portfólio](https://andrepieri.vercel.app/)** ou me manda uma mensagem se quiser trocar uma ideia.
+> Dá uma olhada no meu **[portfólio](https://andrepieri.com.br)** ou me manda uma mensagem se quiser trocar uma ideia.
 
 ---
 
@@ -50,10 +50,10 @@ Sou desenvolvedor Full-Stack focado em projetar aplicações bem estruturadas, c
 
 ## CONTATO
 
-<sub>Aberto a trocar ideia sobre projetos full-stack, automações e sistemas web práticos.</sub>
+<sub>Disponível para vagas full-stack, freelas e parcerias.</sub>
 
 - **GitHub:** [github.com/dzn0](https://github.com/dzn0)
-- **Portfólio:** [andrepieri.vercel.app](https://andrepieri.vercel.app/)
+- **Portfólio:** [andrepieri.vercel.app](https://andrepieri.com.br/)
 - **LinkedIn:** [in/andré-pieri](https://www.linkedin.com/in/andr%C3%A9-pieri-914563358/)
 - **Email:** [andrepereirapieri@gmail.com](mailto:andrepereirapieri@gmail.com)
 
