@@ -2,7 +2,7 @@
 
 # Olá, meu nome é André.
 ### FULL-STACK DEVELOPER
-### Next.js • React • Node.js • Express 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=1000&color=818CF8&center=true&vCenter=true&width=620&height=40&lines=Next.js+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Express;TypeScript+%E2%80%A2+Tailwind+%E2%80%A2+Prisma+%E2%80%A2+PostgreSQL" alt="Next.js - React - Node.js - Express" />
 
 <br/>
 
