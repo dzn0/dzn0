@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @dzn0 (André Pieri)
 - 👀 I'm interested in web development, systems programming and reverse engineering
 - 🌱 I'm currently learning JavaScript, TypeScript, C++, C and Assembly
-- 💻 I also work with web development (Next.js, React, Node.js, PostgreSQL)
+- 💻 My web stack: Next.js, React, Node.js and PostgreSQL
 - 💬 Discord: `d.zn.`
 - 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-pieri-914563358/) or [andrepereirapieri@gmail.com](mailto:andrepereirapieri@gmail.com)
